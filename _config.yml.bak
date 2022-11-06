@@ -1,9 +1,8 @@
 # (string) Title of your wiki
 title: Информационный сайт о Дилижане
-site.url: 
 demo_ver: 1.0.14
 remote_theme: Drassil/git-wiki-theme@master
-description: На русском языке
+description: Git-Wiki demo and documentation
 show_downloads: true
 show_wiki_pages: true
 show_wiki_pages_limit: 10
