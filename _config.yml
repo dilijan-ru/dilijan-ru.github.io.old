@@ -1,5 +1,6 @@
 # (string) Title of your wiki
 title: Информационный сайт о Дилижане
+site.url: https://dilijan-ru.github.io/
 demo_ver: 1.0.14
 remote_theme: Drassil/git-wiki-theme@master
 description: На русском языке
